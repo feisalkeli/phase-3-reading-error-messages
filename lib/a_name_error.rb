@@ -1,3 +1,2 @@
-"hello world"
-
-hello_world
+put ("hello world")
+string = hello_world
